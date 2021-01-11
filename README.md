@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-자율주행 개발을 꿈꾸는 청년입니다.🚗
+자율주행 개발을 꿈꾸는 청년입니다.🚗\
 K-Digital `프로그래머스` 자율주행 Dev. 코스 1기 수강 중
